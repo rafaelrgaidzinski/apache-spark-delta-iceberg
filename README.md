@@ -1,5 +1,5 @@
 ### 1- Criar Projeto Python - Poetry / UV
-### 1.1- https://gist.github.com/luzfcb/ef29561ff81e81e348ab7d6824e14404
+### 1.1- Como instalar pyenv no Ubuntu -> https://gist.github.com/luzfcb/ef29561ff81e81e348ab7d6824e14404
 ### 1.2- Criando ambientes python com poetry e pyenv -> https://www.youtube.com/watch?v=LfNvlgRdcPc
 
 ### 2- Estrutura de Pastas 
