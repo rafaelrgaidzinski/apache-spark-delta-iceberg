@@ -32,3 +32,16 @@
 
 2.2 Iniciar o poetry dentro de um repositório
     Comando: poetry init
+
+3. Apache Spark (camada de processamento) e Jupyter Labs (camada interativa para visualizar e maniputar dados)
+
+3.1 Instalar as bibliotecas
+    Comando: Poetry add pyspark jupyterlab
+
+4. Delta Lake e Iceberg
+
+4.1 Delta lake (verificar biblioteca ou método para rodar na aplicação!!)
+
+4.2 Instalação da biblioteca pyiceberg
+    Comando: poetry add pyiceberg
+
